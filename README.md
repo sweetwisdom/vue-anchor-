@@ -4,12 +4,11 @@
 
 ## vue 实现实现双向锚点滚动
 
-
 [查看demo](https://sweetwisdom.github.io/vue-anchor-/demo)
 
 <img src=".imgs/image-20210926123635602.png" alt="image-20210926123635602" style="zoom:33%;" />
 
-<iframe style="width: 100%;height:300px" frameBorder="0" scrolling="no" src="https://sweetwisdom.github.io/vue-anchor-/demo" ></iframe>
+
 
 ## 主要功能
 
@@ -24,7 +23,11 @@
 ## 使用方法
 
 ```shell
-git clone ...
+git clone  https://github.com/sweetwisdom/vue-anchor-.git
+
+
+<iframe style="width: 100%;height:300px" frameBorder="0" scrolling="no" src="./demo" ></iframe>
+
 ```
 
 
